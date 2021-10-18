@@ -1,5 +1,5 @@
 # UTS-Pengolahan-Citra---Raphael-Kusumo-Hendrianto
-UTS Pengolahan Citra - Raphael Kusumo Hendrianto
+UTS Pengolahan Citra - Raphael Kusumo Hendrianto - 3332180002
 
 Pada UTS penglohan citra - Raphael Kusumo Hendrianto ini :
 

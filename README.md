@@ -6,4 +6,11 @@ Output adalah keseluruhan  hasil gambar.
 repo_file adalah file yang digunakan pada program.
 screenshot adalah foto koding dan hasil dari setiap soal UTS pengolahan Citra.
 no1,no2,no3,no4,no5, dan no6 menyatakan koding dari program dari tiap soal UTS.
+
+No 1 = Extended Depth of Field with mahotas
+No 2 = Projective transform.
+No 3 = Image Denoising with Anisotropic Diffusion.
+No 4 = Image Denoising with Principal Component Analysis (PCA), Discrete Fourier / Wavelet Tranform (FFT, DWT)
+No 5 = Weiner Filter.
+No 6 = Steganography and Steganalysis
 Terimakasih.

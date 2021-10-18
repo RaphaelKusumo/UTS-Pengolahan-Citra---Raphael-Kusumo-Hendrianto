@@ -24,4 +24,6 @@ No 5 = Weiner Filter.
 
 No 6 = Steganography and Steganalysis
 
+pada no 3, dapat diganti  raphael.jpg dengan kameramenoriginal.jpg untuk menampilkan hasil dengan foto kameramen.
+
 Terimakasih.
